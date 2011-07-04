@@ -1,0 +1,3 @@
+[submodule "vendor/eventarc"]
+	path = vendor/eventarc
+	url = git@github.com:Eventarc/EventarcPhpApi.git
